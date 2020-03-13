@@ -43,6 +43,10 @@ body {
 }
 iframe{
   margin-left: 400px;
+  display: block;
+}
+.sli{
+  width: 100%;
 }
 #footer{
   background-color: black;
